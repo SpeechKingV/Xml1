@@ -1,0 +1,19 @@
+<?xml version = "1.0"?>
+<!-- My Adress Book -->
+<addressbook>
+    <contact number = "1">
+            <name> Slava</name>
+            <phone> +7 9962479052</phone>
+            <email> Slava.08ml@Gmail.com</email>
+    </contact>
+    <contact number = "2">
+            <name> Olesya</name>
+            <phone> +7 99624796152</phone>
+            <email> olesya.2000sp@gmail.com</email>
+    </contact>
+    <contact number = "3">
+            <name> Mother</name>
+            <phone> +7 9969611995</phone>
+            <email> irasp2018@gmail.com</email>
+    </contact>
+</addressbook>
